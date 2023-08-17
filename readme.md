@@ -1,4 +1,5 @@
------------------------Upsilon-------------------\n
+-----------------------Upsilon-------------------
+
 Tu est Francais ? Moi aussi !
 Je suis un bot discord crée avec discord.js v13
 J'ai été crée par LeHeroDeBrine tu peut me contacter sur Discord !
