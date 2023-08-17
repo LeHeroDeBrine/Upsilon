@@ -1,0 +1,25 @@
+ban 
+kick
+help{
+    botinfo
+    serverinfo
+    moderation
+}
+ready !
+say !
+botinfo
+ping !
+mute 
+clear
+giveaway
+stop
+reload/restart
+profil info !
+server info !
+invite commande
+8ball
+msg bienvenue !
+msg au revoir !
+say !
+suggest !
+doc !
