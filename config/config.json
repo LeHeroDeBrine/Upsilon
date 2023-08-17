@@ -1,0 +1,11 @@
+{
+    "token" : "Votre token",
+    "prefix" : "!",
+    "version" : "V 0.0.5",
+    "botID" : "1133864746026803410",
+    "ownerID" : "933276326922698802",
+    "guildMemberAdd" : "Le salon de message de bienvenue",
+    "guildMemberRemove" : "Le salon de message d'au revoire",
+    "img1" : "../images/img1.png",
+    "serverid" : "l'id de votre serveur"
+  }
