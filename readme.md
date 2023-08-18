@@ -16,7 +16,6 @@ Modifier aussi l'id du salon de message de bienvenue et d'au revoire !
    
    
 ## English :   
-   
 # -----------------------Upsilon-------------------   
 It's a French bot so i will create the same bot translated into English   
 I am a discord bot created with discord.js v13   
